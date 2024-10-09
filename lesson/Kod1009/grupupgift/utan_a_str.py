@@ -7,3 +7,4 @@ class Uppgift:
 if __name__ == '__main__': 
     min_uppgift = Uppgift(10, 5)
     print(min_uppgift)
+    
