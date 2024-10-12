@@ -8,6 +8,6 @@ def dela():
         print("Något gick fel, du kan inte dela med noll.")
         dela()
     except Exception as error:
-        print(f"Fel: {error}.")
+        print(f"Fel: {error}. Du måste ange korrekta tal.")
         dela()
 dela()

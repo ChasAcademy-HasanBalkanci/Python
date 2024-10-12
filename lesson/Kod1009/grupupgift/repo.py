@@ -9,6 +9,7 @@ subprocess.run(['git', 'clone', https://github.com/ChasAcademy-HasanBalkanci/Pyt
 
 # Navigate into the repository directory
 repo_name = repo_url.split('/')[-1].replace('.git', '')
+print(repo_name)
 subprocess.run(['cd', repo_name])
 
 # Create a new branch
