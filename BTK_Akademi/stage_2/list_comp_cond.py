@@ -24,6 +24,6 @@ student_degrees = {student : degree for student, degree in zip(students, degrees
 print(student_degrees)
 
 # Using list comprehension to calculate the sum of squares of the first 100 natural numbers
-result = [(item_1, item_2) for item_1 in range(3) for item_2 in range(3)]
+result = [(item_1, item_2, item_3) for item_1 in range(1) for item_2 in range(1, 5, 3) for item_3 in range(5, 100, 21)]
 
 print(result)
