@@ -1,0 +1,16 @@
+Id,Product Name,Price,IsActive,Category,Rating
+1,Microsoft Xbox,89.87,False,Home Goods,1
+2,Nike Shoes,72.39,False,Electronics,4
+3,Under Armour Socks,52.08,False,Home Goods,3
+4,HP Laptop,90.82,True,Electronics,2
+5,HP Laptop,96.64,False,Sports,4
+6,Canon Camera,47.84,True,Fashion,1
+7,Under Armour Socks,20.31,True,Home Goods,5
+8,Nike Shoes,47.44,True,Toys,1
+9,Under Armour Socks,24.86,True,Sports,5
+10,PlayStation Console,26.74,True,Sports,4
+11,Nike Basketball,13.01,False,Electronics,3
+12,Nike Shoes,99.91,True,Home Goods,4
+13,Under Armour Socks,84.83,False,Toys,4
+14,PlayStation Console,30.18,True,Home Goods,3
+15,Microsoft Xbox,22.21,True,Fashion,4

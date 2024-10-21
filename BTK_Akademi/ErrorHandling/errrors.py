@@ -26,9 +26,9 @@ while True:
         y = int(input('y : '))
         print(x/y)
 
-    except Exception as e:
+    except Exception as ex:
         print("Having experienced an error!")
-        print(e)
+        print(ex)
     else:
         print("try except was executed")
         break

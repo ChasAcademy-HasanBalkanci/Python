@@ -1,0 +1,5 @@
+1.	[{'firstname': 'hasan', 'lastname': 'balkanci', 'degree': ['45', '45', '45']}]
+1.	[{'firstname': 'b', 'lastname': 'b', 'degree': ['2', '2', '2']}]
+1.	None
+1.	None
+1.	None
